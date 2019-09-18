@@ -12,5 +12,5 @@ const number = parseInt(prompt('Digite um número, por favor'));
 if(number % 10 == 0){
     document.write(`${number} é um múltiplo de 10`)
 }else{
-    document.write(`${number} não é um múltiplo de 10`)
+    alert(`${number} não é um múltiplo de 10. Não vem me enganar, amiga!`)
 };
