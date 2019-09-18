@@ -2,7 +2,7 @@
 
 1. Faça um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 10.
 
-2. Escrever um algoritmo que leia dois valores inteiro distintos e informe qual deles é o maior.
+2. Escrever um algoritmo que leia dois valores inteiros distintos e informe qual deles é o maior.
 
 3. Altere o exercício anterior de forma que ele informe também se os números são iguais.
 
